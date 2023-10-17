@@ -2,6 +2,8 @@
 
 Steps to run Hindi ChatGPT-
 
+Clone the repo 
+OR
 Create a new folder and place the YAML file and Jupyter Notebook file in it.
 
 Open a terminal in that folder and run the following commands-
